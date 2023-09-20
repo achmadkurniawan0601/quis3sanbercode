@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>registerInvalid_EmptyUsername</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d3c08c56-f4b4-44d3-9d86-1db375cfa0a8</testCaseGuid>
+</TestCaseEntity>
